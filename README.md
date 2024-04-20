@@ -1,5 +1,5 @@
 # OUR PiBerry adds more flexibility regarding display options by adding two rails and a more DIY setup. 
-#See PiBerry v1.x for a more simple build
+# See PiBerry v1.x for a more simple build
 
 <img src="/img/piberry.png" />
 
