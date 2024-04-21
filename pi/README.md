@@ -5,7 +5,7 @@
     - Click the gear icon to also setup WiFi and SSH or you may use a display and keyboard
 
 2. SSH into the pi and update the kernel and reboot
-   -If you used Pi imager then you probably have the latest kernel, you may then only use apt-get update, skip reboot, and continue on part 3
+- If you used Pi imager then you probably have the latest kernel, you may then only use apt-get update, skip reboot, and continue on part 3
 ```
 
 sudo apt-get update && sudo apt-get install raspberrypi-kernel
