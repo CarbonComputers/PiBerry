@@ -1,8 +1,8 @@
 # OUR PiBerry v7.x adds more flexibility regarding display options by adding two rails and a more DIY setup. 
 # See PiBerry v1.x for a more simple build
 
-<img src="/img/PiBerry 1.7.png" />
 <img src="/img/PiBerry 7.5.png" />
+<img src="/img/PiBerry 1.7.png" />
 
 ### [Buy Ours Here](https://carboncomputers.us)
 
