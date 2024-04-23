@@ -4,7 +4,7 @@ set -e
 echo "Enabling I2C, SPI, and Console Auto login..."
 sudo raspi-config nonint do_i2c 0 || { echo "Error: Failed to enable I2C."; exit 1; }
 sudo raspi-config nonint do_spi 0 || { echo "Error: Failed to enable SPI."; exit 1; }
-sudo raspi-config nonint do_boot_behaviour B2 || { echo "Error: Failed to enable Console Auto login."; exit 1; }
+#sudo raspi-config nonint do_boot_behaviour B2 || { echo "Error: Failed to enable Console Auto login."; exit 1; }
 
 echo "Updating and installing dependencies..."
 sudo apt-get -y install git raspberrypi-kernel-headers < "/dev/null" || { echo "Error: Failed to install dependencies."; exit 1; }
