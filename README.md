@@ -1,5 +1,3 @@
-# OUR PiBerry v7.x has more display options by adding two rails for a more DIY setup. 
-
 # PiBerry v7.x comes with built-in battery power, charging, and keyboard circuit
 <img src="/img/PiBerry 7.5.png" />
 
