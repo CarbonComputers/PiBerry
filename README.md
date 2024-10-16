@@ -1,7 +1,7 @@
-# PiBerry v7.x comes with built-in battery power, charging, and keyboard circuit
+# PiBerry v7.0-7.5 comes with built-in battery power, charging, and keyboard circuit
 <img src="/img/PiBerry 7.5.png" />
 
-# PiBerry v1.x for a plug & play build
+# PiBerry v1.5-v1.8 for a plug & play build
 <img src="/img/PiBerry 1.7.png" />
 
 ### [Buy Ours Here](https://carboncomputers.us)
