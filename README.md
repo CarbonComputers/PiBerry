@@ -7,6 +7,7 @@
 ### [Buy Ours Here](https://carboncomputers.us)
 
 ## Getting Started
+Check the build-guide PDF for the lastest update on build and setup
 
 1. Use the [Raspberry Pi Imager tool](https://www.raspberrypi.com/software/) to flash an SD card with the latest image
     - Choose the ***Raspberry Pi OS Lite (32-bit) image*** for best speed
